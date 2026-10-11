@@ -1,0 +1,1 @@
+import{t as e}from"./react-vendor-CCIEwYL0.js";import{ct as t,st as n}from"./stationCargoTerminal-L2errNhh.js";import{t as r}from"./ExactValue-C1O-Bt9M.js";var i=e();function a({valueKw:e,className:a=``,interactive:o=!0}){let s=n(e),c=t(e);return(0,i.jsx)(r,{className:`power-value${a?` ${a}`:``}`,compact:s,label:c,interactive:o})}export{a as t};

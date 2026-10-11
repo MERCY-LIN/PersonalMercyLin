@@ -1,0 +1,1 @@
+function e(){return typeof window>`u`?null:window.dspDesktop??null}export{e as t};

@@ -1,0 +1,1 @@
+var e={simple:`简单存档`,"stable-endgame":`稳定终局档`,"volatile-endgame":`物流波动终局档`,complex:`复杂边界终局档`};function t(t){return e[t]}export{t};
